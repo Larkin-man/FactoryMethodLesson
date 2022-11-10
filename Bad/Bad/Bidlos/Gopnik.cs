@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bad.Bidlos
+namespace Good.Bidlos
 {
     class Gopnik : IBidlo
     {

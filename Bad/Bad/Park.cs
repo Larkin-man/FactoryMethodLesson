@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using Bad.GameObjects;
+using Good.GameObjects;
 
-namespace Bad
+namespace Good
 {
     /// <summary>
     /// Класс представляющий локацию
@@ -13,7 +13,7 @@ namespace Bad
         /// Монстры, обитающие на локации
         /// </summary>
         private IBidlo[] bidlos;
-
+        
         /// <summary>
         /// Деревья на локации 
         /// </summary>
@@ -69,6 +69,6 @@ namespace Bad
 
             Console.WriteLine($"{gopnik} Гопник");
         }
-
+       
     }
 }

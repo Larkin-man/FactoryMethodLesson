@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bad.Bidlos
+namespace Good.Bidlos
 {
     class Alkash : IBidlo
     {
@@ -11,7 +11,7 @@ namespace Bad.Bidlos
 
         public override string ToString()
         {
-            return "Алкаш";
+            return "Алкаш"; 
         }
     }
 }

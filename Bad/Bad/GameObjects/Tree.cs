@@ -1,4 +1,4 @@
-﻿namespace Bad.GameObjects
+﻿namespace Good.GameObjects
 {
     /// <summary>
     /// Класс представляющий игровой объект - дерево

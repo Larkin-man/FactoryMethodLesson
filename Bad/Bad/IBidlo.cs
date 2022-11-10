@@ -1,4 +1,4 @@
-﻿namespace Bad
+﻿namespace Good
 {
     /// <summary>
     /// Абстракция для быдло

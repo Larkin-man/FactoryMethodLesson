@@ -1,4 +1,4 @@
-﻿namespace Bad
+﻿namespace Good
 {
     /// <summary>
     /// Класс представляющий главного героя
